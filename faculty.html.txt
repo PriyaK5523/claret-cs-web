@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Courses | CS Department</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="courses.html">Courses</a>
+  <a href="faculty.html">Faculty</a>
+  <a href="gallery.html">Gallery</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section>
+  <h3>Courses Offered</h3>
+  <ul>
+    <li>BCA – Bachelor of Computer Applications</li>
+    <li>B.Sc Computer Science</li>
+    <li>M.Sc Computer Science</li>
+    <li>Certificate Courses in AI & Programming</li>
+  </ul>
+</section>
+
+</body>
+</html>
